@@ -3,7 +3,7 @@ attrs==19.2.0
 audioread==2.1.8
 backcall==0.1.0
 bleach==3.1.4
-certifi==2019.3.9
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 cycler==0.10.0
